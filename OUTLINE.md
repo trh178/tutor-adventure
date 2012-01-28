@@ -32,7 +32,12 @@ These would open up in a 'Super Mario World' type fasion. Each stopping point wi
 
 -- Back End
 
-- API to deliver problem 
+- Problem service  
+-- IN: count: <number of problems to return>
+       concept: <problem type or concept pool from which the problem is chosen>
+-- OUT: statement: <actual problem statement/description itself>
+   	list of answers: <multiple choice answers to be displayed>  
+	correct answer: <correct choice from above> 
 
 
 #### Puzzle Based

@@ -1,0 +1,8 @@
+In progress:
+
+Currently:
+
+Front End: Countdown Timer started. JSON requests to Back End can be viewed.
+
+Back End: Requests to SimpleDB have a proof of concept implemented. Requests returned in JSON to Front End.
+
